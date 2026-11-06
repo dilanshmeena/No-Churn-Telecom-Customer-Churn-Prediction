@@ -1,6 +1,6 @@
 # No-Churn Telecom: Customer Churn Prediction
 
-Machine learning project for **No-Churn Telecom** (DataMites project PRCL-0017, telecom churn). The goal is to understand why customers leave, score each customer's churn risk, and flag customers for retention campaigns.
+Machine learning project for **No-Churn Telecom** (project, telecom churn). The goal is to understand why customers leave, score each customer's churn risk, and flag customers for retention campaigns.
 
 ## Project goals
 
